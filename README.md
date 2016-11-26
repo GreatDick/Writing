@@ -1,3 +1,4 @@
+![mahua](https://raw.githubusercontent.com/varfate/Writing/master/demo.png)
 ## Writing
 Writing是一款简单明了的Typecho主题.
 
@@ -11,4 +12,5 @@ Writing是一款简单明了的Typecho主题.
 ## 其他
 
 好像没有什么可以说的.
-'现在开始,倾心写作'
+
+>现在开始,倾心写作.
